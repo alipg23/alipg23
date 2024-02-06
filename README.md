@@ -22,3 +22,6 @@
 
 <a href="https://www.instagram.com/ta_ali0/"><img src ="https://github.com/alipg23/alipg23/blob/main/image/icons8-insta-48.png?raw=true"></a>
 <a href="https://t.me/ICYAL1"><img src ="https://github.com/alipg23/alipg23/blob/main/image/icons8-telegram-48.png?raw=true"></a>
+<h2>🌱در حال حاضر دارم اینارو یاد میگیرم :</h2>
+<h3 align= "left">🔮 Python| 30%</h3> <img src ="https://github.com/alipg23/alipg23/blob/main/image/bar.png?raw=true" height="16px" width = "150px">
+<h3 align= "left">Angular | 80%</h3> <img src ="https://github.com/alipg23/alipg23/blob/main/image/bar.png?raw=true" height="16px" width = "400px">
