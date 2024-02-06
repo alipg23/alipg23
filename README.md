@@ -7,7 +7,7 @@
 
 <h2 align = center>سلام 👋 من علی ام 👨‍💻</h2>
 <P align = center>برنامه نویس جاوا اسکریپتم 💛 و دوست دارم به همه یادش بدم 🎯 و خلاصه عاشق دنیای کامپیوتر ها ☺️❤️💻</p>
-<h2 align = left>🎓مهارت ها و ابزار هایی که استفاده میکنم :</h2>
+<h2 align = right>🎓مهارت ها و ابزار هایی که استفاده میکنم :</h2>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
