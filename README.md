@@ -25,3 +25,9 @@
 <h2>🌱در حال حاضر دارم اینارو یاد میگیرم :</h2>
 <h3 align= "left">🔮 Python| 30%</h3> <img src ="https://github.com/alipg23/alipg23/blob/main/image/bar.png?raw=true" height="16px" width = "150px">
 <h3 align= "left">🔮Angular | 80%</h3> <img src ="https://github.com/alipg23/alipg23/blob/main/image/bar.png?raw=true" height="16px" width = "400px">
+<h2 align = "right">🌞 الان مشغول این کارهام:</h2>
+<h4 align = "right">⭐️ برنامه نویسی وب</h4>
+<h4 align = "right">⭐️ ساخت اپلیکیشن های تحت وب(PWA)</h4>
+<h4 align = "right">طراحی رابط کاربری</h4>
+<h4 align = "right">⭐️طراحی سایت های ریسپانسیو</h4>
+
