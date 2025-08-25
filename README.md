@@ -6,7 +6,7 @@
 <img  src="https://github.com/alipg23/alipg23/assets/106647403/9f45a4eb-8e19-439b-81f6-b36296cec27f" alt = "Just for Fun:D">
 
 <h2 align = center>سلام 👋 من علی ام 👨‍💻</h2>
-<P align = center>برنامه نویس جاوا اسکریپتم 💛 و دوست دارم به همه آموزش بدم 🎯 و خلاصه عاشق دنیای کامپیوتر ها ☺️❤️💻</p>
+<P align = center>برنامه نویس پایتونم  💛 و دوست دارم به همه آموزش بدم 🎯 و خلاصه عاشق دنیای کامپیوتر ها ☺️❤️💻</p>
 <h2 align = right>🎓مهارت ها و ابزار هایی که استفاده میکنم :</h2>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -23,8 +23,8 @@
 <a href="https://www.instagram.com/ta_ali0/"><img src ="https://github.com/alipg23/alipg23/blob/main/image/icons8-insta-48.png?raw=true"></a>
 <a href="https://t.me/ICYAL1"><img src ="https://github.com/alipg23/alipg23/blob/main/image/icons8-telegram-48.png?raw=true"></a>
 <h2>🌱در حال حاضر دارم اینارو یاد میگیرم :</h2>
-<h3 align= "left">🔮 Python| 30%</h3> <img src ="https://github.com/alipg23/alipg23/blob/main/image/bar.png?raw=true" height="16px" width = "150px">
-<h3 align= "left">🔮Angular | 80%</h3> <img src ="https://github.com/alipg23/alipg23/blob/main/image/bar.png?raw=true" height="16px" width = "400px">
+<h3 align= "left">🔮 Python| 30%</h3> <img src ="https://github.com/alipg23/alipg23/blob/main/image/bar.png?raw=true" height="16px" width = "500px">
+<h3 align= "left">🔮 Django | 80%</h3> <img src ="https://github.com/alipg23/alipg23/blob/main/image/bar.png?raw=true" height="16px" width = "400px">
 <h2 align = "right">🌞 الان مشغول این کارهام:</h2>
 <h4 align = "right">⭐️ برنامه نویسی وب</h4>
 <h4 align = "right">⭐️ ساخت اپلیکیشن های تحت وب(PWA)</h4>
